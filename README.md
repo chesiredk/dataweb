@@ -3,5 +3,5 @@ MAXX Energy needs a way for their various stakeholders to see and analyze data c
 Maxx energy have already taken the objective to decifer this website project to several tasks points.
 Being the current active member on the team, I have takent he first approach of commiting to web scripting tools that will be used for making the dataweb
 For the database, I have seen MySQL to be simple enough and satisfactory for holding test login data and user registration data
-For the front end, I have weighed on HTML, CSS for styling, and React Js for functions,
+For the front end, I have weighed on ReactJS as a good starting point library,
 ...
